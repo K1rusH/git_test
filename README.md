@@ -26,4 +26,4 @@ pytest
 
 ## Автор
 
-Kodland-K1rusH
+Kodland-Sakzamov
