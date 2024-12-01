@@ -26,4 +26,4 @@ pytest
 
 ## Автор
 
-Kodland-Sakzamov
+Ether24 (Kiril Kukuschkin)
