@@ -26,4 +26,4 @@ pytest
 
 ## Автор
 
-Kodland-Sakzamov
+Kodland-GAGARIN MAKSIM
