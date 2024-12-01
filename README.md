@@ -26,4 +26,4 @@ pytest
 
 ## Автор
 
-Kodland-Tyulebekov Marlen
+Kodland-Marlen21
