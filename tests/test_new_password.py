@@ -18,3 +18,6 @@ def test_password_characters():
 def test_password_dlina():
     for i in range(1, 25):
         assert len(generate_password(length=i)) == i
+
+def test_password_difference():
+    assert pytest-randomly
