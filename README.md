@@ -24,6 +24,10 @@ pip install pytest
 pytest
 ```
 
-## Автор
+## Мл. Автор
 
 Kodland-Sakzamov
+
+## Ст. Автор
+
+Kodland-K1rusH2

@@ -1,4 +1,5 @@
 import string
+import pytest
 from password.new_password import generate_password
 
 def test_password_characters():
