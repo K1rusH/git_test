@@ -18,3 +18,6 @@ def test_password_characters():
 def test_password_dlina():
     for i in range(1, 25):
         assert len(generate_password(length=i)) == i
+# Проверка, что пароль не состоит из одного и того же символа
+def test_password_not_same_characters(password):
+    assert len(password) > 1 and all(c != password[0] for c in password) == True
